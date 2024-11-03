@@ -59,7 +59,6 @@ pyinstaller --onefile --noconsole --icon=icon.ico gui.py
 For questions, suggestions, or customization requests, feel free to reach out:
 
 Telegram: @npx_react_native
-GitHub: github.com/callsimba
 website: www.callenki.com
 
 
